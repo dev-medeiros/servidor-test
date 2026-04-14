@@ -1,0 +1,64 @@
+08:47:07.405 [AI Object Patrol] Generating default object patrols for "deerisle"
+08:47:07.406 [AI Patrol] Generating default patrols for "deerisle"
+08:47:07.417 [AI Patrol] WARNING: No spawn points found for "deerisle"
+08:52:39.573 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
+09:10:42.921 [Expansion Quests] Initialize quest system on the connected client with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.925 [Expansion Quests] Created new persistent player quest data for player UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.926 [Expansion Quests] Create new achievement/auto-start quest for quest ID=8 for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.927 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=3
+09:10:42.927 [Expansion Quests] Updated and saved persistent player quest data for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= | Quest ID=8
+09:10:42.927 [Expansion Quests] Create new achievement/auto-start quest for quest ID=9 for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.928 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=2
+09:10:42.929 [Expansion Quests] Updated and saved persistent player quest data for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= | Quest ID=9
+09:10:42.929 [Expansion Quests] Create new achievement/auto-start quest for quest ID=11 for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.930 [Expansion Quests] Added new objective data for type=ACTION | Key= | ID=1
+09:10:42.930 [Expansion Quests] Updated and saved persistent player quest data for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= | Quest ID=11
+09:10:42.930 [Expansion Quests] Create new achievement/auto-start quest for quest ID=14 for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.932 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+09:10:42.933 [Expansion Quests] Updated and saved persistent player quest data for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= | Quest ID=14
+09:10:42.934 [Expansion Quests] Sending M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= quest configs to client for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.935 [Expansion Quests] Sending player quest data for 4 quests to player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=
+09:10:42.938 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+09:10:42.940 [Expansion Quests] Updated and saved persistent player quest data for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= | Quest ID=14
+09:10:42.940 [Expansion Quests] Player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= has completed quest with ID=14
+09:10:42.942 [Expansion Quests] Updated and saved persistent player quest data for player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY= | Quest ID=14
+09:10:42.944 [AI Object Patrol 00000] Spawning 2 East bots at <5687.447754, 72.753738, 3284.053467>
+09:10:43.112 [AI Object Patrol 00000] Global patrol count: 1
+09:10:43.112 [AI Object Patrol 00000] Global Expansion AI count: 1 alive, 0 deceased
+09:10:43.113 [AI Object Patrol 00000] HelicopterWreck category patrol count: 1
+09:10:43.113 [AI Object Patrol 00009] Spawning 1 West bots at <5700.981445, 74.809494, 3336.448486>
+09:10:43.142 [AI Object Patrol 00009] Global patrol count: 2
+09:10:43.143 [AI Object Patrol 00009] Global Expansion AI count: 2 alive, 0 deceased
+09:10:43.143 [AI Object Patrol 00009] MilitaryRoaming category patrol count: 1
+09:10:55.690 [Killfeed] AI Gabi (East) foi morto po AI Elias (West) com M4-A1 de 47 m distância.
+09:10:56.265 [Killfeed] AI Linda (East) foi morto po AI Elias (West) com M4-A1 de 51 m distância.
+09:10:59.928 [AI Object Patrol 00000] East bots were wiped out (spawn position <5687.447754, 72.753738, 3284.053467>, 2/2 deceased)
+09:10:59.929 [AI Object Patrol 00000] Global patrol count: 1
+09:10:59.929 [AI Object Patrol 00000] Global Expansion AI count: 1 alive, 2 deceased
+09:10:59.930 [AI Object Patrol 00000] HelicopterWreck category patrol count: 0
+09:15:11.916 [Killfeed] Zackstabz sangrou até morrer
+09:16:27.238 [AI Object Patrol 00000] Despawning 0 East bots (spawn position <5673.532715, 73.827110, 3316.689209>, 2/2 deceased)
+09:16:54.011 [AI Object Patrol 00033] Spawning 1 West bots at <5857.472168, 74.535858, 3647.118896>
+09:16:54.039 [AI Object Patrol 00033] Global patrol count: 2
+09:16:54.039 [AI Object Patrol 00033] Global Expansion AI count: 2 alive, 0 deceased
+09:16:54.039 [AI Object Patrol 00033] MilitaryRoaming category patrol count: 2
+09:17:00.601 [AI Object Patrol 00034] Spawning 1 West bots at <5189.975586, 74.536377, 3139.140137>
+09:17:00.628 [AI Object Patrol 00034] Global patrol count: 3
+09:17:00.629 [AI Object Patrol 00034] Global Expansion AI count: 3 alive, 0 deceased
+09:17:00.629 [AI Object Patrol 00034] MilitaryRoaming category patrol count: 3
+09:19:55.223 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=.
+09:19:55.224 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=.
+09:19:55.224 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=M3mZVh4Xd89Z_qcaP3wYmsIkBYNf9c66-T8wZVeJEiY=.
+09:27:46.160 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <5700.981445, 74.809494, 3336.448486>, 0/1 deceased)
+09:27:46.161 [AI Object Patrol 00009] Global patrol count: 2
+09:27:46.162 [AI Object Patrol 00009] Global Expansion AI count: 2 alive, 0 deceased
+09:27:46.163 [AI Object Patrol 00009] MilitaryRoaming category patrol count: 2
+09:28:34.960 [AI Object Patrol 00034] Despawning 1 West bots (spawn position <5189.975586, 74.536377, 3139.140137>, 0/1 deceased)
+09:28:34.961 [AI Object Patrol 00034] Global patrol count: 1
+09:28:34.961 [AI Object Patrol 00034] Global Expansion AI count: 1 alive, 0 deceased
+09:28:34.961 [AI Object Patrol 00034] MilitaryRoaming category patrol count: 1
+09:28:37.202 [AI Object Patrol 00033] Despawning 1 West bots (spawn position <5857.472168, 74.535858, 3647.118896>, 0/1 deceased)
+09:28:37.203 [AI Object Patrol 00033] Global patrol count: 0
+09:28:37.203 [AI Object Patrol 00033] Global Expansion AI count: 0 alive, 0 deceased
+09:28:37.204 [AI Object Patrol 00033] MilitaryRoaming category patrol count: 0
+10:22:41.281 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer

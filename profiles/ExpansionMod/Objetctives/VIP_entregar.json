@@ -3,7 +3,7 @@
     "ID": 1,
     "ObjectiveType": 9,
     "ObjectiveText": "O sobrevivente precisa chegar vivo ao local marcado, leve com segurança pelos perigos do caminho.",
-    "TimeLimit": 180,
+    "TimeLimit": 300,
     "Active": 1,
     "Position": [
         0.0,

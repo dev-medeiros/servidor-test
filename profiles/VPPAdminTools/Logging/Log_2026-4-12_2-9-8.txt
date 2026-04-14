@@ -1,0 +1,496 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-4-12_2-9-8
+====================================================================================
+2:9:8 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+2:9:8 | [PermissionManager] Perm (FreeCamera) has been registered!
+2:9:8 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuItemManager) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuServerManager) has been registered!
+2:9:8 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+2:9:8 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+2:9:8 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+2:9:8 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+2:9:8 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+2:9:8 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+2:9:8 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+2:9:8 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+2:9:8 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+2:9:8 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuBansManager) has been registered!
+2:9:8 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+2:9:8 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+2:9:8 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+2:9:8 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+2:9:8 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+2:9:8 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+2:9:8 | [PermissionManager] Adding Super Admin (76561198118650977)
+2:9:8 | [PermissionManager] Loaded UserGroups.json
+2:9:8 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+2:9:8 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+2:9:8 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+2:9:8 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+2:9:8 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+2:9:8 | Building Sets Loaded: 0
+2:9:8 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+2:9:8 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+2:10:9 | Player "Zackstabz" (steamId=76561198118650977) connected to server!
+2:11:38 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (STAG_Clothing_6sh118)
+2:12:6 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (M4A1)
+2:12:32 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Mosin9130)
+2:12:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Mosin9130)
+2:12:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Mosin9130)
+2:12:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Mosin9130)
+2:13:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:3 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:3 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:3 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:13:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:32 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:32 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:32 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:35 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:35 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:46 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:13:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SmallStone)
+2:17:54 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:17:54 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:17:54 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:17:54 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:17:55 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:17:55 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Stone)
+2:18:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PowerGenerator)
+2:18:12 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (STAG_Clothing_6sh118)
+2:18:12 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (STAG_Clothing_6sh118)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5489.077637, 66.449959, 1591.886475>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.531250, 66.466873, 1590.095215>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.459473, 66.467010, 1590.074341>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.393066, 66.467125, 1590.054932>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.321289, 66.467262, 1590.034912>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.253906, 66.467392, 1590.015503>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.185547, 66.467529, 1589.996094>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.122559, 66.467636, 1589.978027>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5481.055664, 66.467773, 1589.959351>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5476.137207, 66.474640, 1588.806885>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5475.001465, 66.475662, 1588.539063>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5474.599609, 66.476021, 1588.436401>)
+2:27:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5474.530762, 66.476074, 1588.417969>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5474.513672, 66.476074, 1588.413574>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5474.448242, 66.476128, 1588.395142>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5474.387695, 66.476173, 1588.378052>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5473.763672, 66.476753, 1588.225830>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5473.221191, 66.477196, 1588.099243>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5466.616699, 66.481400, 1586.528198>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5458.400879, 66.484047, 1585.294556>)
+2:27:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5450.326172, 66.485085, 1584.129761>)
+2:27:25 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5441.974121, 66.485504, 1583.257446>)
+2:27:25 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5433.896484, 66.485603, 1583.406982>)
+2:27:26 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5426.428711, 66.485672, 1587.924316>)
+2:27:27 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5422.220703, 66.485626, 1592.296997>)
+2:27:27 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5417.804688, 66.485558, 1596.955933>)
+2:27:27 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5413.631348, 67.262772, 1598.929199>)
+2:27:29 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5404.312500, 66.986343, 1601.446533>)
+2:27:29 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5398.299316, 66.985306, 1600.676147>)
+2:27:30 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5392.046387, 66.984215, 1600.637817>)
+2:27:30 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5385.474609, 66.983070, 1600.935669>)
+2:30:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PowerGenerator)
+2:30:54 | "Zackstabz" (steamid=76561198118650977) deleted object "PowerGenerator" (pos=<5386.358398, 67.006607, 1606.103760>)
+2:37:35 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Chainmail_Coif)
+2:37:37 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Chainmail_Leggings)
+2:37:38 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Chainmail)
+2:37:58 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PlateCarrierVest)
+2:38:13 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Chestplate)
+2:38:17 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Winchester70)
+2:38:58 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WorkingGloves_Black)
+2:45:57 | "76561198118650977" (steamid=76561198118650977) teleported to (pos=<5135.839844, 74.000000, 3173.280029>)
+2:45:57 | "Zackstabz": (steamid=76561198118650977) teleported to (pos=5135.84,0,3173.28)
+2:45:58 | "76561198118650977" (steamid=76561198118650977) teleported to (pos=<5144.169922, 74.000000, 3176.850098>)
+2:45:58 | "Zackstabz": (steamid=76561198118650977) teleported to (pos=5144.17,0,3176.85)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5313.652344, 74.000000, 3306.621826>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.221680, 73.999977, 3300.931641>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.183105, 73.999992, 3300.900391>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.147461, 74.000000, 3300.871094>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.114258, 74.000015, 3300.844482>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.079102, 74.000008, 3300.815186>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.046387, 73.999977, 3300.788818>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5306.011719, 74.000015, 3300.760010>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5305.976074, 74.000000, 3300.730713>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5305.941895, 74.000000, 3300.702393>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5301.641113, 74.000015, 3297.458496>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5300.125977, 74.000008, 3296.322510>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5299.624512, 73.999992, 3295.946533>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5299.366699, 73.999992, 3295.742432>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5299.291016, 74.000008, 3295.686523>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5299.264160, 73.999992, 3295.667236>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5299.233887, 74.000000, 3295.642334>)
+2:46:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5292.945801, 74.000015, 3290.889160>)
+2:46:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5285.783203, 73.999977, 3285.408447>)
+2:46:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5278.736328, 73.999969, 3280.000488>)
+2:46:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5271.727539, 73.999992, 3274.619141>)
+2:46:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.437988, 74.000015, 3269.003906>)
+2:46:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.402832, 74.000023, 3268.974854>)
+2:46:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.366211, 74.000015, 3268.945068>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.332520, 73.999985, 3268.917236>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.299316, 73.999992, 3268.889648>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.265625, 73.999992, 3268.861816>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.230469, 73.999992, 3268.832764>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.195801, 73.999992, 3268.804443>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.160156, 73.999992, 3268.775146>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.122070, 73.999992, 3268.743652>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.088867, 74.000000, 3268.716553>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5259.806152, 74.000000, 3265.447998>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5258.322266, 73.999992, 3264.315430>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5257.846191, 74.000008, 3263.951660>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5257.601563, 74.000008, 3263.759033>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5257.533691, 74.000008, 3263.705322>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5257.407227, 73.999992, 3263.602295>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5257.377441, 73.999992, 3263.577881>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5257.369629, 74.000000, 3263.571289>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5256.645020, 74.000008, 3263.012451>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5255.986816, 74.000000, 3262.510986>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5255.323730, 73.999992, 3262.005615>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5254.670898, 73.999985, 3261.507813>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5253.990234, 73.999992, 3260.987549>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5253.379395, 73.999985, 3260.520752>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5252.840332, 73.999992, 3260.108887>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5252.369629, 74.000008, 3259.749023>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5251.971191, 74.000008, 3259.443604>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5251.641602, 74.000000, 3259.190186>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5250.280762, 73.999992, 3258.149902>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5249.235840, 74.000000, 3257.351074>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5248.462402, 73.999992, 3256.759521>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5247.319336, 73.999992, 3255.885010>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5246.514160, 74.000000, 3255.269043>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5245.962402, 74.000008, 3254.846924>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5245.582520, 74.000000, 3254.555664>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5245.323730, 74.000008, 3254.356689>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5245.152832, 73.999985, 3254.224121>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5243.126953, 73.999992, 3252.676270>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5241.973145, 74.000008, 3251.794922>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5240.475586, 73.999992, 3250.649658>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5239.696777, 74.000000, 3250.054199>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5239.305664, 74.000000, 3249.755127>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5237.749512, 74.000031, 3248.563965>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5237.037598, 73.999977, 3248.019043>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5236.727051, 73.999992, 3247.781494>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5234.500977, 73.999992, 3246.079590>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5233.608887, 73.999992, 3245.397705>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5233.267578, 73.999992, 3245.136963>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5231.358887, 73.999992, 3243.676270>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5230.715820, 74.000015, 3243.184082>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5230.510254, 74.000000, 3243.026611>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5230.447754, 74.000000, 3242.979004>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5230.410156, 74.000000, 3242.948975>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5230.373535, 74.000000, 3242.919189>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5230.339844, 74.000000, 3242.891602>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5225.190430, 74.000000, 3238.957275>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5224.085449, 73.999985, 3238.112793>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5223.876465, 74.000000, 3237.953125>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5223.821777, 73.999992, 3237.910156>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5223.777344, 74.000008, 3237.874023>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5223.749023, 74.000008, 3237.850586>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5223.114258, 74.000008, 3237.358887>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5222.575195, 74.000023, 3236.947510>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5222.036133, 74.000023, 3236.536621>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5221.290527, 73.999992, 3235.967285>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5220.590332, 73.999992, 3235.432617>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5219.944336, 74.000008, 3234.939209>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5219.366699, 74.000000, 3234.498047>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5218.860352, 73.999985, 3234.110840>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5218.435547, 74.000008, 3233.785400>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5218.083008, 73.999992, 3233.515137>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5217.346191, 74.000023, 3232.950928>)
+2:46:50 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5210.374023, 74.000000, 3227.597168>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5203.094238, 73.999992, 3221.989258>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5203.057617, 74.000000, 3221.959229>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5203.020996, 74.000008, 3221.929199>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.984863, 73.999992, 3221.899902>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.952148, 73.999992, 3221.873047>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.917969, 74.000008, 3221.844482>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.883301, 73.999985, 3221.816162>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.851563, 73.999992, 3221.790283>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.816895, 73.999992, 3221.761475>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.781250, 73.999992, 3221.732178>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.747070, 73.999992, 3221.704102>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5198.469238, 73.999992, 3218.438721>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.993164, 74.000000, 3217.311768>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.510742, 74.000000, 3216.943359>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.262207, 73.999992, 3216.748047>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.189453, 73.999992, 3216.690918>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.164063, 73.999985, 3216.670898>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.065918, 74.000000, 3216.590088>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.073730, 73.999992, 3216.596680>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.081543, 74.000000, 3216.603271>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.089355, 73.999992, 3216.609619>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5194.970215, 73.999992, 3215.754639>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5193.939941, 74.000000, 3214.967773>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5193.016602, 73.999985, 3214.262207>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5192.213379, 73.999985, 3213.648193>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5191.536621, 74.000000, 3213.130127>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5190.647949, 73.999992, 3212.449951>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5189.960938, 74.000000, 3211.924316>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5189.449707, 74.000000, 3211.533203>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5188.145996, 73.999977, 3210.536377>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5187.239258, 74.000008, 3209.843262>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5186.625488, 73.999992, 3209.374023>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5185.336426, 73.999992, 3208.387695>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5184.510742, 74.000008, 3207.756104>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5184.004883, 73.999992, 3207.369141>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5182.190430, 73.999992, 3205.981689>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5181.154297, 73.999985, 3205.189453>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5179.273926, 73.999992, 3203.750977>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5178.294922, 74.000000, 3203.002197>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5177.809082, 74.000008, 3202.630615>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5177.570801, 74.000008, 3202.447998>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5177.441406, 74.000008, 3202.347412>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5177.365723, 74.000015, 3202.287842>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5174.485840, 73.999985, 3200.087402>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5173.328125, 74.000000, 3199.203125>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5172.891602, 74.000008, 3198.869629>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5171.493164, 73.999985, 3197.798828>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5171.029785, 74.000000, 3197.444092>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5170.885254, 73.999985, 3197.333252>)
+2:46:51 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5167.811035, 74.000000, 3194.982910>)
+2:46:52 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5160.572754, 74.000000, 3189.409668>)
+2:46:52 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5153.366211, 73.999992, 3183.796143>)
+2:46:52 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5146.532227, 73.999992, 3178.405518>)
+2:46:53 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5140.687988, 74.000015, 3173.574219>)
+2:47:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (ConstructionHelmet_Red)
+2:48:21 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+2:48:26 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+2:48:35 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5307.748535, 73.999992, 3299.969727>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5296.313477, 74.000000, 3291.529541>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5296.280273, 73.999992, 3291.502197>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5296.245117, 74.000000, 3291.470703>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5296.212891, 74.000008, 3291.441895>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5285.755859, 74.000000, 3283.768311>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5285.937500, 74.000008, 3283.889404>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5286.075684, 73.999992, 3283.981201>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5286.193848, 74.000000, 3284.053711>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5286.312500, 73.999992, 3284.117676>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5286.427734, 73.999992, 3284.178711>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5276.146484, 74.000008, 3276.588623>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5276.326660, 73.999985, 3276.677246>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5276.500488, 74.000015, 3276.763184>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5276.573242, 74.000015, 3276.774902>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5276.753906, 74.000008, 3276.869385>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5276.925781, 74.000000, 3276.959961>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.470703, 74.000000, 3269.850098>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.512207, 74.000008, 3269.869873>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.507324, 74.000008, 3269.836914>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.584961, 74.000000, 3269.877197>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.662598, 74.000008, 3269.917480>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.735840, 73.999992, 3269.957275>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.794434, 73.999992, 3269.992920>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5267.842773, 74.000000, 3270.018311>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5265.892578, 73.999992, 3268.555420>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5264.299316, 74.000008, 3267.306152>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5262.990723, 73.999992, 3266.274658>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5262.019531, 74.000000, 3265.511230>)
+2:48:36 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5253.052246, 74.000008, 3258.376221>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5244.348633, 74.000008, 3251.660645>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.790039, 74.000000, 3245.293945>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.738770, 73.999992, 3245.254639>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.689453, 74.000008, 3245.216553>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.644531, 74.000008, 3245.182129>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.601074, 74.000000, 3245.148926>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.563477, 74.000015, 3245.120361>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5235.527344, 74.000000, 3245.092041>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5231.135742, 74.000008, 3241.851563>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5229.123535, 73.999969, 3240.370605>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5228.171875, 74.000008, 3239.665283>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5227.788574, 74.000008, 3239.383057>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5227.642090, 74.000000, 3239.275879>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5223.312988, 74.000008, 3236.080811>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5221.802246, 74.000000, 3234.968018>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5221.320313, 74.000000, 3234.612549>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5221.173828, 74.000008, 3234.499023>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5221.123047, 74.000008, 3234.453857>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5216.690430, 74.000015, 3231.179932>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5215.689453, 73.999992, 3230.422363>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5215.500488, 74.000000, 3230.268066>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5213.701660, 74.000023, 3228.919434>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5213.454102, 74.000000, 3228.714844>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5208.554199, 74.000000, 3225.059814>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5208.041992, 74.000015, 3224.668213>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5208.016113, 74.000008, 3224.640625>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5207.707031, 73.999992, 3224.396484>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5207.490723, 74.000015, 3224.226074>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5207.272461, 74.000015, 3224.054688>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5206.205078, 74.000008, 3223.264160>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5205.200684, 74.000000, 3222.506592>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5204.290527, 74.000000, 3221.819824>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5203.467773, 73.999992, 3221.201172>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.752441, 73.999992, 3220.664551>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5202.146973, 73.999977, 3220.209229>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5201.192871, 74.000000, 3219.497070>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5200.446289, 73.999992, 3218.926514>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5199.881348, 73.999992, 3218.494629>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5198.354980, 74.000008, 3217.344238>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5197.279297, 73.999985, 3216.513916>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.536133, 74.000000, 3215.939941>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5196.036621, 74.000008, 3215.552246>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5195.713867, 73.999992, 3215.298584>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5192.865723, 74.000000, 3213.130615>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5191.205078, 74.000000, 3211.847656>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5190.270508, 74.000008, 3211.119629>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5189.758301, 74.000008, 3210.716797>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5189.476074, 74.000000, 3210.494141>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5189.325684, 74.000000, 3210.370117>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5187.307129, 73.999992, 3208.827393>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5186.368652, 74.000008, 3208.090820>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5185.956055, 74.000000, 3207.764160>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5183.734375, 74.000000, 3206.035400>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5182.853027, 74.000008, 3205.331299>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5182.526855, 73.999985, 3205.061523>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5180.331055, 74.000008, 3203.363525>)
+2:48:37 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5179.580078, 73.999992, 3202.772705>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5179.339355, 73.999992, 3202.581787>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5176.695313, 74.000015, 3200.512207>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5175.968262, 74.000008, 3199.936523>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5173.250000, 74.000000, 3197.813965>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5172.615234, 74.000000, 3197.313232>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5172.481934, 74.000000, 3197.208008>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5172.426270, 73.999992, 3197.164307>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5172.375488, 74.000008, 3197.121338>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5171.885742, 74.000008, 3196.731201>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5171.506348, 73.999985, 3196.433594>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5163.816406, 74.000000, 3190.373779>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5156.230469, 74.000000, 3184.396973>)
+2:48:38 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5148.999023, 74.000008, 3178.665527>)
+2:48:39 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5142.855469, 73.999985, 3173.760742>)
+2:58:5 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5930.266602, 73.999992, 3535.122070>)
+2:58:5 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5942.123047, 74.000008, 3542.041992>)
+2:58:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5954.002930, 74.000008, 3548.989746>)
+2:58:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5963.892090, 73.999985, 3555.516846>)
+2:58:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5973.749512, 74.000000, 3562.270752>)
+2:58:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5985.198730, 73.999992, 3570.101563>)
+2:58:8 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5996.898438, 73.999992, 3578.003906>)
+2:58:9 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6011.204590, 73.999962, 3587.714844>)
+2:58:10 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6020.336914, 74.000000, 3596.078369>)
+2:58:10 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6028.584961, 73.999992, 3604.176758>)
+2:58:11 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6035.099121, 74.000000, 3614.826904>)
+2:58:12 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6040.495605, 74.000000, 3625.245361>)
+2:58:12 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6040.429688, 74.000000, 3630.095459>)
+2:58:13 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6041.604492, 74.017975, 3634.518311>)
+2:58:13 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6044.208496, 74.000000, 3644.140869>)
+2:58:14 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6046.290527, 74.000008, 3658.861328>)
+2:58:15 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<6046.871094, 74.000000, 3671.908447>)
+3:1:34 | [WeatherManager] Send Data Count is 0
+3:2:10 | [Time Manager] Setting Date to 2026/9/22 1:7
+3:2:13 | [Time Manager] Setting Date to 2026/9/22 1:7
+3:3:49 | "Zackstabz" (steamid=76561198118650977) toggled godmode
+3:4:0 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+3:4:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5686.615723, 74.820427, 3294.353760>)
+3:4:30 | [WeatherManager] Send Data Count is 0
+3:4:34 | [Time Manager] Setting Date to 2026/9/22 9:33
+3:4:34 | [Time Manager] Setting Date to 2026/9/22 9:33
+3:4:39 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+3:4:46 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+3:4:52 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+3:5:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5686.403320, 75.317245, 3300.271973>)
+3:5:8 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5685.871582, 76.077988, 3298.822754>)
+3:5:9 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5685.753906, 76.729858, 3298.526123>)
+3:5:35 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5751.127930, 87.983414, 3256.889404>)
+3:5:42 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<5474.522949, 103.800537, 2935.526611>)
+3:6:36 | Player "Zackstabz" (steamId=76561198118650977) initiated disconnect process...
+3:6:37 | Player "Zackstabz" (steamId=76561198118650977) disconnected early from server (EXIT NOW).

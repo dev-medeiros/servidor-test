@@ -1,0 +1,619 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-4-13_23-50-45
+====================================================================================
+23:50:45 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:50:45 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:50:45 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:50:45 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:50:45 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:50:45 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:50:45 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:50:45 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:50:45 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:50:45 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:50:45 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:50:45 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:50:45 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:50:45 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:50:45 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:50:45 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:50:45 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:50:45 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:50:45 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+23:50:45 | [PermissionManager] Adding Super Admin (76561198118650977)
+23:50:45 | [PermissionManager] Adding Super Admin (76561198151487147)
+23:50:45 | [PermissionManager] Loaded UserGroups.json
+23:50:45 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:50:45 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:50:45 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:50:45 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:50:45 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:50:45 | Building Sets Loaded: 0
+23:50:45 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+23:50:45 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:53:11 | Player "Zackstabz" (steamId=76561198118650977) connected to server!
+23:55:47 | Player "Zonicx" (steamId=76561198151487147) connected to server!
+23:56:50 | "Zonicx" (steamid=76561198151487147) toggled freecam
+23:56:54 | "Zonicx" (steamid=76561198151487147) toggled freecam
+23:56:56 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+23:57:4 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+23:57:38 | "Zonicx" (steamid=76561198151487147) toggled freecam
+23:58:35 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<6823.905273, 25.202517, 4684.121582>)
+23:58:49 | "76561198118650977" (steamid=76561198118650977) teleported to (pos=<4701.339844, 24.899786, 10512.500000>)
+23:58:49 | "Zackstabz": (steamid=76561198118650977) teleported to (pos=4701.34,0,10512.5)
+23:59:7 | "76561198151487147" (steamid=76561198151487147) teleported to (pos=<4781.910156, 24.900000, 10457.000000>)
+23:59:7 | "Zonicx": (steamid=76561198151487147) teleported to (pos=4781.91,0,10457)
+23:59:27 | "Zonicx" (steamid=76561198151487147) toggled freecam
+0:2:58 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Defibrillator)
+0:3:11 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Battery9V)
+0:4:5 | "Zackstabz" (steamid=76561198118650977) healed player (steamid=76561198118650977)
+0:5:22 | "Zonicx" (steamid=76561198151487147) toggled godmode
+0:5:33 | "Zonicx" (steamid=76561198151487147) toggled godmode
+0:6:5 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:22 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:22 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:28 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:28 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:37 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:37 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:6:52 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:7:2 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:7:3 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:7:9 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:7:28 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:7:29 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:7:34 | "Zonicx" (steamid=76561198151487147) toggled godmode
+0:7:56 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:5 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:24 | "Zonicx" (steamid=76561198151487147) toggled godmode
+0:8:27 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:27 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:27 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeBandageHemostatic)
+0:8:37 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:8:59 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeSurgicalKit)
+0:9:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeSurgicalTool_White)
+0:9:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeSurgicalTool_Ceramic)
+0:9:26 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:10:1 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:10:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeSurgicalKit)
+0:11:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeSurgicalKit)
+0:11:11 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeSurgicalKit)
+0:11:47 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:12:49 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:12:58 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeInjectorPromidol)
+0:13:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjePillsNoopept)
+0:15:0 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_IFAK_Black)
+0:15:14 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_IFAK_Brown)
+0:16:28 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198151487147)
+0:17:54 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:17:54 | "Zonicx" (steamid=76561198151487147) just updated a health stat on (steamid=76561198151487147)
+0:20:43 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_SportBag)
+0:21:29 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_6sh118)
+0:22:4 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Shirt_BlueCheckBright)
+0:22:4 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Shirt_BlueCheckBright)
+0:22:8 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Raincoat_Blue)
+0:22:12 | "Zonicx" (steamid=76561198151487147) Spawned Item: (TrackSuitJacket_LightBlue)
+0:22:18 | "Zonicx" (steamid=76561198151487147) Spawned Item: (QuiltedJacket_Blue)
+0:22:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_Kakashka)
+0:23:41 | "Zonicx" (steamid=76561198151487147) toggled godmode
+0:23:57 | "Zonicx" (steamid=76561198151487147) healed player (steamid=76561198151487147)
+0:24:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_FieldPants_KHK)
+0:24:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_FieldShorts_White)
+0:24:23 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_FRACU_RG)
+0:24:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pants_Crye_G3_Black)
+0:24:57 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_G99_Pants_Black)
+0:25:8 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Gorka_Pants_Black)
+0:25:19 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_L9_PatagoniaPants_CB)
+0:25:38 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Shirt_ArcticJacket_Blue)
+0:25:47 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4841.902832, 24.876587, 10402.927734>)
+0:25:47 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.606934, 24.896072, 10407.071289>)
+0:25:47 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.570313, 24.896229, 10407.102539>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.529785, 24.896294, 10407.136719>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.491699, 24.896479, 10407.169922>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.455078, 24.896601, 10407.202148>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.414063, 24.896639, 10407.238281>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4837.374512, 24.896761, 10407.272461>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4835.032227, 24.899813, 10409.583008>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4834.265137, 24.899845, 10410.339844>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4834.024902, 24.899864, 10410.576172>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4833.925293, 24.899908, 10410.669922>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4833.873047, 24.899874, 10410.717773>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4831.915527, 24.900002, 10412.636719>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4831.491699, 24.900003, 10413.052734>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4830.475586, 24.899979, 10414.049805>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4830.313965, 24.900011, 10414.208008>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4830.270996, 24.900015, 10414.248047>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4830.230957, 24.900019, 10414.283203>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4830.187988, 24.900002, 10414.321289>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4829.849121, 24.900000, 10414.642578>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4829.593262, 24.900003, 10414.894531>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4829.325684, 24.900007, 10415.157227>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4829.045410, 24.899982, 10415.431641>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4828.564941, 24.900042, 10415.903320>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4828.138184, 24.900005, 10416.322266>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4827.765625, 24.900002, 10416.688477>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4827.346191, 24.900003, 10417.095703>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4827.007324, 24.899996, 10417.424805>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4826.741699, 24.899996, 10417.682617>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4826.528320, 24.899988, 10417.888672>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4826.358887, 24.900011, 10418.050781>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4825.975586, 24.900005, 10418.426758>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4825.719238, 24.900036, 10418.678711>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4825.553223, 24.899965, 10418.841797>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4824.477051, 24.899965, 10419.893555>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4823.829102, 24.900000, 10420.527344>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4823.449707, 24.900000, 10420.898438>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4823.229004, 24.900003, 10421.113281>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4823.089355, 24.900003, 10421.248047>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4822.994141, 24.900003, 10421.336914>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4822.584473, 24.900003, 10421.739258>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4822.390137, 24.899994, 10421.929688>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4822.302246, 24.899992, 10422.015625>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4821.351074, 24.900002, 10422.947266>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4820.965332, 24.899952, 10423.324219>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4820.001953, 24.900007, 10424.266602>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4819.659180, 24.900003, 10424.601563>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4819.543457, 24.900000, 10424.714844>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4819.044922, 24.900005, 10425.199219>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4818.899414, 24.900003, 10425.340820>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4817.922363, 24.900036, 10426.297852>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4817.687012, 24.899948, 10426.524414>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4817.637207, 24.899981, 10426.570313>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4816.237305, 24.900040, 10427.929688>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4815.997070, 24.900002, 10428.148438>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4814.277832, 24.900017, 10429.818359>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4814.072266, 24.899975, 10430.004883>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4814.038086, 24.900017, 10430.027344>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4814.001953, 24.900015, 10430.052734>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4813.553711, 24.899946, 10430.468750>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4813.210449, 24.900011, 10430.797852>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4812.857422, 24.900076, 10431.135742>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4812.477051, 24.899925, 10431.507813>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4812.116699, 24.899996, 10431.846680>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4811.789063, 24.900000, 10432.152344>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4811.242676, 24.900013, 10432.678711>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4810.765625, 24.899971, 10433.123047>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4810.374512, 24.900013, 10433.488281>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4810.052734, 24.899961, 10433.787109>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4809.796875, 24.899967, 10434.023438>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4809.605957, 24.900053, 10434.195313>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4809.460449, 24.900024, 10434.324219>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4808.990723, 24.899961, 10434.773438>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4808.686523, 24.900076, 10435.044922>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4808.498535, 24.900093, 10435.210938>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4807.455566, 24.899998, 10436.188477>)
+0:25:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4806.855469, 24.900024, 10436.731445>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4806.524902, 24.900030, 10437.025391>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4806.332520, 24.899996, 10437.195313>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4806.215332, 24.899967, 10437.291016>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4805.643066, 24.899979, 10437.814453>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4805.383301, 24.900064, 10438.028320>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4805.273438, 24.899994, 10438.111328>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4804.091797, 24.900047, 10439.183594>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4803.632324, 24.900024, 10439.577148>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4803.036133, 24.900003, 10440.094727>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4802.833008, 24.900007, 10440.250000>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4802.087402, 24.899996, 10440.890625>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4801.874512, 24.899981, 10441.057617>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4801.811523, 24.900032, 10441.098633>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4801.754883, 24.900013, 10441.133789>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.921875, 24.900000, 10442.752930>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.618164, 24.900002, 10443.009766>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.568848, 24.899998, 10443.046875>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.545898, 24.899990, 10443.062500>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.502930, 24.900002, 10443.094727>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.459961, 24.899998, 10443.125000>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.255371, 24.900021, 10443.286133>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4799.153809, 24.900009, 10443.370117>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4798.722656, 24.900051, 10443.754883>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4798.255859, 24.900002, 10444.150391>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4797.823730, 24.900007, 10444.528320>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4797.432617, 24.900023, 10444.856445>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4797.087891, 24.900043, 10445.145508>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4796.798828, 24.900028, 10445.390625>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4796.558594, 24.900074, 10445.592773>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4796.137695, 24.899900, 10445.951172>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4795.833008, 24.899996, 10446.203125>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4795.620605, 24.899992, 10446.376953>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4794.987305, 24.900019, 10446.916992>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4794.571777, 24.900011, 10447.268555>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4793.936523, 24.899967, 10447.805664>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4793.555664, 24.900005, 10448.125000>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4793.334961, 24.900021, 10448.310547>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4792.750488, 24.899992, 10448.801758>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4792.441895, 24.899986, 10449.058594>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4792.284180, 24.900005, 10449.189453>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4792.190918, 24.899963, 10449.266602>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4792.122070, 24.899971, 10449.318359>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4791.136719, 24.900002, 10450.156250>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4790.730957, 24.899988, 10450.493164>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4790.575195, 24.899988, 10450.620117>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4789.446289, 24.899979, 10451.567383>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4789.053223, 24.899975, 10451.892578>)
+0:25:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4788.926758, 24.900015, 10451.993164>)
+0:26:18 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_511_Shirt_Flanel_Red)
+0:26:35 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_511_Shirt_Flanel_BlackStriped)
+0:26:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Hoodie_Jacket_Nike_G)
+0:27:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Hoodie_Jacket_Rolled_Nike_G)
+0:27:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Shirt_ISOF_Jacket_Black)
+0:27:50 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Shirt_Tactical_Coat_Black)
+0:28:6 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Shirt_Polo_Blue)
+0:28:14 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Jacket_SoftShell_Black)
+0:28:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Hooded_Parka_OG)
+0:29:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_COMTAC3_Headset_Tan_Velcro)
+0:29:37 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Watchcap_Black)
+0:29:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Dripclava_Black)
+0:30:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Knight_Mask_Black)
+0:30:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Beard_Handlebar_LightBrown)
+0:30:25 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Beard_Handlebar_Black)
+0:30:51 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Hooded_Cloak_Black)
+0:31:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_SniperHood_Black)
+0:31:13 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_DEFCONVans_Shoes_KHK)
+0:31:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Panel_MapPackMed_Black)
+0:32:7 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_ArcteryxLEAF_Black)
+0:33:48 | "Zonicx" (steamid=76561198151487147) Spawned Item: (HeadCover_Improvised)
+0:34:16 | "Zonicx" (steamid=76561198151487147) Spawned Item: (SurgicalGloves_LightBlue)
+0:34:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Chainmail_Leggings)
+0:35:27 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Mag_VSS_10Rnd)
+0:35:34 | "Zonicx" (steamid=76561198151487147) Spawned Item: (VSS_Black)
+0:38:13 | "Zonicx" (steamid=76561198151487147) Spawned Item: (My_DF_Gear_Backpacks_Zoya_Angel)
+0:40:41 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MSFC_Boots_ATACSFG)
+0:43:21 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:43:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bergen_Rucksack_Black)
+0:43:34 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:43:34 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:43:34 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:43:46 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:43:47 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:43:48 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MouthRag)
+0:44:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_ArcteryxLEAF_Black)
+0:45:41 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MedicalScrubsHat_White)
+0:46:29 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_LBT1475A_Black)
+0:48:6 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Panel_GMR_MiniMap_CB)
+0:48:20 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_AVS_MC)
+0:49:55 | "Zackstabz" (steamid=76561198118650977) /heal used on: "Zackstabz" (steamid=76561198118650977)
+0:50:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_6ShBagT_BlackEMR)
+0:51:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_AthleticShorts_Black)
+0:51:20 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pants_Crye_G3_Black)
+0:51:31 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Hooded_Parka_Black)
+0:51:38 | "Zonicx" (steamid=76561198151487147) Spawned Item: (HeadCover_Improvised)
+0:51:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_MechanixGloves_Black_Words)
+0:51:59 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_BISON_Belt_Black)
+0:52:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Boonie_Black)
+0:52:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Ronin_Hat_Black)
+0:52:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Combat_HikingBoots_Black)
+0:52:44 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Zypher_Boots_Black_Socks)
+0:52:45 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Shirt_ArcticJacket_Blue)
+0:53:5 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_DPC_Black)
+0:53:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_CPC_Black)
+0:53:30 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_JPC2_Black)
+0:53:35 | "Zonicx" (steamid=76561198151487147) Spawned Item: (ParamedicJacket_Blue)
+0:53:44 | "Zonicx" (steamid=76561198151487147) Spawned Item: (HikingJacket_Blue)
+0:53:45 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_LBT6094_Black)
+0:53:52 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_LV119_Black)
+0:54:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_Plateframe_Black)
+0:54:30 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Rubicon_Black)
+0:55:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeFirstAidKitAdvance_Black)
+0:55:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (TerjeFirstAidKitIndividual_Black)
+0:55:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Legging_Shorts_Black)
+0:55:22 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_FRACU_RG)
+0:55:30 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Round_Glasses_Black)
+0:55:44 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SK8_Sneakers_Black)
+0:55:55 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Skinny_Jeans_Black)
+0:56:9 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Tactical_Leg_Holster_Black)
+0:56:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Trapper_Hat_Black)
+0:56:46 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_PegasusBag_Black)
+0:57:11 | "Zonicx" (steamid=76561198151487147) Spawned Item: (SurgicalGloves_Green)
+0:57:18 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_Coyote_Bag_MulticamBlack)
+0:57:36 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_AVS_Black)
+0:57:49 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MMG_supplybag_black)
+0:58:56 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_PouchAdmin_Chest_Black)
+0:58:57 | "Zonicx" (steamid=76561198151487147) Spawned Item: (SurgicalMask)
+0:58:57 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Vest_PhoneCase1_Black)
+0:58:59 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Panel_GMR_MiniMap_Black)
+0:59:0 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Panel_FerroBanger_Black)
+0:59:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_FC_Panel_Black_Flag_US)
+0:59:3 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_JPC_Panel_Black_Flag_US)
+0:59:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Panel_CryeZipon_Black)
+0:59:5 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mag_SSCCS_Black)
+0:59:6 | "Zonicx" (steamid=76561198151487147) Spawned Item: (SurgicalGloves_Green)
+0:59:7 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mag_SSMK4_Black)
+0:59:8 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mag_LV119_Black)
+0:59:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mag_TEAR_Black)
+0:59:11 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mag_KTAR_Black)
+0:59:16 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mag_DW_Black)
+0:59:20 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_TraumaRoll_Black)
+0:59:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_IFAK_Black)
+0:59:25 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Grenade_Black)
+0:59:27 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Belly_Lunchbox_Black)
+0:59:29 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_FerroDangler_Black)
+0:59:31 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Belly_Spiritus_Black)
+0:59:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_FannyPack_Black)
+0:59:35 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Belly_Black)
+0:59:37 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_JSTA_Black)
+0:59:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Mutant_Black)
+0:59:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Tall_Spiritus_Black)
+0:59:42 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MaleOliverHead)
+0:59:43 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Admin_Spiritus_Black)
+0:59:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_Admin_Small_Black)
+0:59:50 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_FlagRoll_US_Black)
+0:59:57 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_UAPNVG_Black)
+1:0:14 | "Zonicx" (steamid=76561198151487147) Spawned Item: (HeadCover_Improvised)
+1:0:40 | "Zonicx" (steamid=76561198151487147) Spawned Item: (HikingJacket_Blue)
+1:0:49 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Raincoat_Blue)
+1:1:35 | "Zonicx" (steamid=76561198151487147) Spawned Item: (BDUPants)
+1:1:42 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pouch_SingleMag_Black)
+1:1:46 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_BDU_Pants_Tan)
+1:2:0 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Tourniquet)
+1:2:5 | "Zonicx" (steamid=76561198151487147) Spawned Item: (CombatBoots_Black)
+1:2:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Button_Pin_Radioactive)
+1:2:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PersonalRadio)
+1:2:22 | "Zonicx" (steamid=76561198151487147) Spawned Item: (HikingBoots_Black)
+1:2:33 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FirstAidKit)
+1:3:55 | "Zonicx" (steamid=76561198151487147) Spawned Item: (DryBag_Green)
+1:6:14 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_6ShBagT_Green)
+1:7:28 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_CommsBag_CB)
+1:7:49 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_CommsBag_Black)
+1:8:12 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_CommsBag_Transmitter_Base_Black)
+1:8:38 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_DrawBridge_CB)
+1:10:48 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4844.434570, 24.844442, 10398.647461>)
+1:10:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4849.106934, 24.791969, 10395.384766>)
+1:10:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4853.298340, 24.734089, 10392.496094>)
+1:10:55 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_6ShBagT_Black)
+1:11:15 | [WeatherManager] Send Data Count is 0
+1:11:21 | [Time Manager] Setting Date to 2026/9/23 10:17
+1:12:15 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+1:12:24 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:12:31 | "Zonicx" (steamid=76561198151487147) Spawned Item: (SKS_Black)
+1:12:33 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:12:42 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:12:47 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:12:50 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:12:56 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:12:58 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+1:15:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (ParamedicJacket_Blue)
+1:15:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (ParamedicJacket_Blue)
+1:16:13 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pants_Crye_G3_Blue)
+1:16:21 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Shirt_ArcticJacket_Blue)
+1:16:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Jacket_ArcteryxGryphon_Blue)
+1:16:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_AEM01_Jacket_Blue)
+1:18:21 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:18:23 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+1:18:51 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_FRACU_RG)
+1:18:55 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_FRACU_RG)
+1:19:42 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_FRACU_GRY)
+1:19:49 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_G3Pants_Green)
+1:19:49 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_FRACU_GRY)
+1:19:56 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (mmg_tactical_pants_green)
+1:20:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (CargoPants_Grey)
+1:20:57 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Pants_Crye_G3_Grey)
+1:20:59 | "Zonicx" (steamid=76561198151487147) Spawned Item: (VSS)
+1:21:0 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_L9_PatagoniaPants_Grey)
+1:21:2 | "Zonicx" (steamid=76561198151487147) Spawned Item: (VSS_Black)
+1:21:3 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Mag_VSS_10Rnd)
+1:21:7 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_FieldPants_Grey)
+1:22:29 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (VSS_Clean)
+1:25:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Mag_Vikhr_30Rnd)
+1:25:33 | "Zonicx" (steamid=76561198151487147) healed player (steamid=76561198118650977)
+1:25:37 | "Zackstabz" (steamid=76561198118650977) healed player (steamid=76561198118650977)
+1:26:17 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (ExpansionHAMROptic)
+1:26:38 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PSO6Optic)
+1:26:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PSO11Optic)
+1:28:9 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_Taiga1)
+1:30:6 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:30:38 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:31:23 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:32:3 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4832.661133, 24.900009, 10412.787109>)
+1:32:5 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:32:22 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:32:56 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_6ShBagT_Black)
+1:33:6 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_DrawBridge_Black)
+1:33:8 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:33:10 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:33:16 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_F4Terminator_Black)
+1:33:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_MRASAP_Black)
+1:34:19 | "Zonicx" (steamid=76561198151487147) deleted objects using ESP
+1:34:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_BlackJack_Black)
+1:34:24 | "Zonicx" (steamid=76561198151487147) deleted objects using ESP
+1:34:31 | "Zonicx" (steamid=76561198151487147) deleted objects using ESP
+1:34:39 | "Zonicx" (steamid=76561198151487147) deleted objects using ESP
+1:34:42 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:34:55 | "Zonicx" (steamid=76561198151487147) Spawned Item: (Canteen)
+1:35:50 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_SATL_Black)
+1:36:13 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_SSO_Black)
+1:36:27 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_Trizip_Black)
+1:37:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Bag_LBT1475A_Black)
+1:47:12 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MMG_carrier_backpack_black)
+1:47:18 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MMG_supplybag_black)
+1:47:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MMG_assault_pack_black)
+1:47:31 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MMG_camelback_black)
+1:47:38 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MMG_mmps_bag_black)
+1:48:19 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4879.511719, 23.892139, 10365.262695>)
+1:48:19 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4888.947266, 23.360836, 10356.328125>)
+1:48:44 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4890.954102, 23.425978, 10358.238281>)
+1:48:44 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4904.064453, 22.305872, 10345.131836>)
+1:48:45 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4913.561523, 21.209019, 10334.559570>)
+1:48:46 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_RaidBag_Black)
+1:48:46 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4910.453125, 21.510778, 10336.648438>)
+1:49:37 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:49:44 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:50:53 | "Zonicx" (steamid=76561198151487147) toggled godmode
+1:50:57 | "Zonicx" (steamid=76561198151487147) toggled godmode
+1:51:15 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4885.455566, 23.442511, 10356.761719>)
+1:51:15 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4882.477051, 23.654665, 10360.275391>)
+1:51:15 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4879.507813, 23.829668, 10363.741211>)
+1:51:15 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4877.678223, 23.908142, 10365.425781>)
+1:51:16 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4874.435547, 24.040138, 10368.336914>)
+1:51:16 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4871.493652, 24.148664, 10370.971680>)
+1:51:16 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4868.388672, 24.254887, 10373.735352>)
+1:51:17 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4864.930664, 24.355019, 10376.424805>)
+1:51:17 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4862.170410, 24.422556, 10378.482422>)
+1:51:18 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4868.406738, 24.319433, 10375.850586>)
+1:51:19 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4867.427246, 24.363932, 10377.300781>)
+1:51:19 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4871.935547, 24.258617, 10374.413086>)
+1:51:20 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4876.385742, 24.122332, 10370.854492>)
+1:51:20 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4880.085938, 23.965088, 10367.075195>)
+1:51:20 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4867.403809, 24.298176, 10374.968750>)
+1:51:20 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4883.465332, 23.792860, 10363.376953>)
+1:51:20 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4876.060059, 24.021099, 10368.055664>)
+1:51:20 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4886.443848, 23.596657, 10360.011719>)
+1:51:21 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4888.986816, 23.394670, 10356.981445>)
+1:51:21 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4884.123535, 23.704943, 10361.611328>)
+1:51:21 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4891.323242, 23.173494, 10353.819336>)
+1:51:21 | "Zonicx" (steamid=76561198151487147) teleported to crosshair (pos=<4892.062500, 23.244009, 10355.344727>)
+1:51:21 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4893.825684, 22.912821, 10350.170898>)
+1:52:3 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:52:19 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:52:40 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:53:20 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:53:28 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:53:29 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:54:39 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_FerroGloves_AJ)
+1:55:45 | "Zonicx" (steamid=76561198151487147) Spawned Item: (MSFC_MilitaryPants_Black)
+1:56:8 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:56:14 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:56:26 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:56:27 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:56:50 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:56:51 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:56:57 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4900.768555, 22.880640, 10352.379883>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4896.725098, 23.266136, 10356.946289>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4896.682129, 23.269299, 10356.986328>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4896.641602, 23.272364, 10357.024414>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4896.602051, 23.275347, 10357.060547>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4896.557129, 23.278564, 10357.101563>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4896.512695, 23.281807, 10357.140625>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4894.221191, 23.466988, 10359.709961>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4893.418945, 23.525850, 10360.574219>)
+1:57:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4893.131836, 23.545834, 10360.874023>)
+1:57:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4888.460938, 23.841261, 10365.222656>)
+1:57:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4883.971191, 24.051504, 10369.313477>)
+1:57:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4879.771484, 24.192623, 10372.919922>)
+1:57:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4877.289551, 24.265942, 10374.996094>)
+1:57:8 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4873.368652, 24.371944, 10378.251953>)
+1:57:8 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4870.497070, 24.444324, 10380.630859>)
+1:57:8 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4866.642090, 24.529261, 10383.766602>)
+1:57:8 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4862.184570, 24.612764, 10387.293945>)
+1:57:39 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:57:40 | "Zonicx" (steamid=76561198151487147) toggled freecam
+1:58:9 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_CargoBag_Black)
+1:58:20 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_MilitaryTacticalBag30L_Black)
+1:58:26 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_MilitaryTacticalBag70L_Black)
+1:58:32 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (MSFC_PegasusBag_Black)
+1:58:57 | "Zonicx" (steamid=76561198151487147) Spawned Item: (SherpaHat_Black)
+2:0:44 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Knight_Mask_Black)
+2:1:35 | "Zonicx" (steamid=76561198151487147) Spawned Item: (EFT_Vest_BlackKnight)
+2:3:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_Gunslinger)
+2:3:58 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4864.133789, 24.421360, 10378.834961>)
+2:3:59 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4868.307129, 24.294962, 10375.040039>)
+2:3:59 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4872.002441, 24.166460, 10371.570313>)
+2:3:59 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4875.288086, 24.040073, 10368.479492>)
+2:3:59 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4879.092773, 23.879303, 10364.911133>)
+2:4:0 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4882.582520, 23.714153, 10361.634766>)
+2:4:0 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4886.536133, 23.485703, 10357.942383>)
+2:4:0 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4890.411133, 23.220325, 10354.327148>)
+2:4:1 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<4894.618652, 22.954098, 10351.138672>)
+2:4:17 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_6sh118)
+2:4:44 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_Piligrim)
+2:5:19 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_Beta2)
+2:5:20 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_BlackJack)
+2:5:53 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_Mechanism)
+2:6:5 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (EFT_bag_Paratus)
+2:8:18 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+2:8:23 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+2:8:29 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+2:9:8 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (SkiGloves_Blue)
+2:9:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Items_Watch_Hack_AN252G)
+2:9:27 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Items_Watch_Smee_Plague)
+2:13:33 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_FieldShorts_AOR2)
+2:14:24 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_Crye_G3_MCT)
+2:15:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FOG_Watchcap_Black)
+2:15:4 | "Zonicx" (steamid=76561198151487147) Spawned Item: (FOG_Pants_Crye_G2_Holster_AOR2)
+2:15:24 | Player "Zackstabz" (steamId=76561198118650977) initiated disconnect process...
+2:15:26 | Player "Zonicx" (steamId=76561198151487147) initiated disconnect process...
+2:15:27 | Player "Zackstabz" (steamId=76561198118650977) disconnected early from server (EXIT NOW).
+2:15:28 | Player "Zonicx" (steamId=76561198151487147) aborted logout process [canceledLogout]
+2:15:43 | "Zonicx" (steamid=76561198151487147) toggled freecam
+2:15:51 | Player "Zonicx" (steamId=76561198151487147) initiated disconnect process...
+2:16:6 | Player "Zonicx" (steamId=76561198151487147) disconnected from server.

@@ -1,0 +1,228 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-4-12_17-35-26
+====================================================================================
+17:35:26 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:35:26 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:35:26 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:35:26 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:35:26 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:35:26 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:35:26 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:35:26 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:35:26 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:35:26 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:35:26 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:35:26 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:35:26 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:35:26 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:35:26 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:35:26 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:35:26 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:35:26 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:35:26 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+17:35:26 | [PermissionManager] Adding Super Admin (76561198118650977)
+17:35:26 | [PermissionManager] Loaded UserGroups.json
+17:35:26 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:35:26 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:35:26 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:35:26 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:35:26 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:35:26 | Building Sets Loaded: 0
+17:35:26 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+17:35:26 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:33:21 | Player "Zackstabz" (steamId=76561198118650977) connected to server!
+18:33:59 | Player "Zackstabz" (steamId=76561198118650977) initiated disconnect process...
+20:22:10 | Player "Zackstabz" (steamId=76561198118650977) connected to server!
+20:26:43 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Mosin9130)
+20:28:16 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Canteen)
+20:39:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1434.292114, 8.320003, 15288.957031>)
+20:39:23 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1438.819092, 8.319998, 15279.774414>)
+20:39:24 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1442.138428, 8.320005, 15274.539063>)
+20:39:28 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1443.950806, 8.320001, 15275.851563>)
+20:39:29 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1441.225830, 8.319987, 15281.176758>)
+20:39:29 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1438.105347, 8.320005, 15286.070313>)
+20:39:29 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1434.979492, 8.319996, 15290.640625>)
+20:39:31 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1431.687256, 8.319999, 15296.075195>)
+20:39:31 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1429.314331, 8.320015, 15300.266602>)
+20:39:49 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1429.264282, 8.319994, 15297.248047>)
+20:40:4 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+20:40:5 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+20:40:6 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+20:40:6 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+20:40:7 | "Zackstabz" (steamid=76561198118650977) just updated a health stat on (steamid=76561198118650977)
+20:40:51 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+20:40:56 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+20:41:0 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+20:46:17 | [WeatherManager] Send Data Count is 0
+20:46:25 | [Time Manager] Setting Date to 2026/9/23 7:59
+20:46:27 | [Time Manager] Setting Date to 2026/9/23 7:59
+20:48:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Items_Mask)
+20:49:20 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WitchHood_Black)
+20:49:30 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WasteLandZ_Mountaineering_Hoodie)
+20:49:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (M65Jacket_Black)
+20:50:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WoodAxe)
+20:50:42 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Hatchet)
+20:52:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_GunBag_Black)
+20:52:42 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_GunBag_Desert)
+20:53:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_RaidBag_Black)
+20:54:26 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+20:54:32 | "Zackstabz" (steamid=76561198118650977) toggled freecam
+20:56:25 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WasteLandZ_Mountaineering_Bag)
+20:58:7 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Rope)
+20:58:17 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Binoculars)
+20:58:25 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Compass)
+20:58:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (PersonalRadio)
+20:58:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Canteen)
+20:59:5 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Winchester70)
+20:59:13 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (HuntingOptic)
+20:59:32 | [WeatherManager] Send Data Count is 0
+21:8:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WasteLandZ_backpack_Black)
+21:10:17 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (FryingPan)
+21:10:53 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Pot)
+21:13:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (DrysackBag_Yellow)
+21:16:25 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WasteLandZ_backpack_Black)
+21:17:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (WasteLandZ_Mountaineering_Bag)
+21:19:19 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Rubicon_Black)
+21:19:47 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Rubicon_Desert)
+21:21:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Compact_Blue)
+21:23:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Deployment_Bag_Black)
+21:24:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Duffle_Black)
+21:25:6 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1419.160889, 8.319932, 15294.570313>)
+21:25:7 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1422.021973, 8.319996, 15289.402344>)
+21:26:45 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_GunBag_Black)
+21:28:1 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_RaidBag_Black)
+21:30:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Rush_24_Bag_Black)
+21:31:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_Tactical_Bag_Black)
+21:32:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (Paragon_US_Military_Black)
+21:33:42 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+21:33:49 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+21:34:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Armors_Nylon)
+21:34:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_3H)
+21:36:3 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_ALS)
+21:37:3 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Camping)
+21:39:51 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Cross)
+21:40:33 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_D2)
+21:41:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_D3)
+21:41:6 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_D7)
+21:43:23 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_DASH)
+21:44:4 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_DG)
+21:44:30 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Doctor)
+21:45:11 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Engineering_Shield_LV1)
+21:45:45 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Engineering_Shield_LV4_1)
+21:47:9 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Field_hiking)
+21:48:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_GA)
+21:49:39 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_GT1)
+21:50:8 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_GT5)
+21:50:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_GTO)
+21:51:15 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Heavy_Mountain)
+21:51:19 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_HLS2)
+21:52:18 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1445.184326, 8.320006, 15276.925781>)
+21:52:19 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1452.206665, 8.320002, 15275.191406>)
+21:52:19 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1457.925293, 8.320006, 15273.005859>)
+21:52:45 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Large_Mountain)
+21:53:10 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_King)
+21:54:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Large_sports)
+21:54:55 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Lightweight_Outdoor2)
+21:56:13 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_MAP)
+21:58:51 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Raid_Tactical)
+21:59:40 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Rainforest_hunter)
+22:0:58 | [WeatherManager] Send Data Count is 0
+22:1:1 | [Time Manager] Setting Date to 2026/9/23 14:11
+22:4:2 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Roy)
+22:4:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Roy_Haavk)
+22:4:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Roy_mourners)
+22:5:37 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Rucksack)
+22:5:52 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_SergeantWilson)
+22:6:43 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Sineva_Tincan)
+22:7:24 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Sports)
+22:7:41 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Subrosa)
+22:8:0 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Tactical)
+22:8:22 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Terry)
+22:9:17 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Travel)
+22:9:43 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Backpacks_Zoya_Angel)
+22:11:11 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Items_Watch_Hack_AN252G)
+22:11:22 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1436.764648, 8.320000, 15268.043945>)
+22:11:22 | "Zackstabz" (steamid=76561198118650977) teleported to crosshair (pos=<1427.938354, 8.320001, 15272.835938>)
+22:11:24 | "Zackstabz" (steamid=76561198118650977) /heal used on: "Zackstabz" (steamid=76561198118650977)
+22:11:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Rigs_Butterfly)
+22:11:53 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Rigs_Luna_Black)
+22:12:19 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Rigs_Maurice)
+22:12:34 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Rigs_Mounting)
+22:12:48 | "Zackstabz" (steamid=76561198118650977) Spawned Item: (My_DF_Gear_Rigs_Reis)
+22:13:50 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+22:13:54 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+22:13:58 | "Zackstabz" (steamid=76561198118650977) deleted objects using ESP
+22:14:17 | Player "Zackstabz" (steamId=76561198118650977) initiated disconnect process...
+22:14:18 | Player "Zackstabz" (steamId=76561198118650977) disconnected early from server (EXIT NOW).

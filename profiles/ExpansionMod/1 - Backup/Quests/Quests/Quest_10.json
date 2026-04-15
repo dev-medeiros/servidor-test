@@ -2,13 +2,14 @@
     "ConfigVersion": 22,
     "ID": 10,
     "Type": 1,
-    "Title": "[VIP] Test quest",
+    "Title": "Evacuação da Médica Pesquisadora",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Precisamos transferir uma médica especialista para um ponto seguro de reconhecimento de pesquisa. Ela carrega informações valiosas sobre medicamentos e tratamentos que podem ajudar outros sobreviventes. Sua missão é escoltá-la até o local marcado, onde nossa equipe médica estará aguardando.",
+        "A médica ainda não chegou ao ponto de reconhecimento. Leve-a em segurança até o destino e garanta que ela encontre a equipe de pesquisa.",
+        "Excelente trabalho. Se conseguirmos manter nossos especialistas vivos, ainda há esperança de reconstruir algo neste caos."
+    
     ],
-    "ObjectiveText": "PLACEHOLDER",
+    "ObjectiveText": "Leve a médica pesquisadora até o ponto de reconhecimento.",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -21,7 +22,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
+            "Amount": 1000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

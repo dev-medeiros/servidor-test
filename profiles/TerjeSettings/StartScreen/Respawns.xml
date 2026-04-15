@@ -104,165 +104,26 @@
 			ALL SUPPORTED CONDITIONS YOU CAN FOUND HERE: https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditions/README.md
 -->
 <Respawns>
-	<Respawn id="deerisle" displayName="Deerisle (random)">
+	<Respawn id="silaMarket" displayName="ARREDORES - SILA MARKET">
 		<Options>
-			<MapImage path="TerjeStartScreen\Textures\deerisle.paa" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
+			<MapRender pos="7578.00, 4508.00" zoom="0.25" showPoints="always" showMarker="always" allowInteraction="0" />
+			<PlayerStats health="100" blood="5000" shock="30" energy="3000" water="2500" sleep="14000" mind="100" heatComfort="0" heatBuffer="30" />
+			<SafeRadius zombie="15" animal="0" player="10" other="0" />
 		</Options>
 		<Points>
-			<Point pos="4458.00, 2668.00" />
-			<Point pos="7813.00, 3922.00" />
-			<Point pos="4678.00, 2828.00" />
-			<Point pos="9104.00, 7920.00" />
-			<Point pos="9088.00, 7592.00" />
-			<Point pos="6372.50, 1559.00" />
-			<Point pos="4534.00, 2730.00" />
-			<Point pos="7783.00, 3989.00" />
-			<Point pos="5922.50, 1437.50" />
-			<Point pos="6340.00, 1324.00" />
-			<Point pos="5176.00, 774.00" />
-			<Point pos="4048.00, 6832.00" />
-			<Point pos="10320.00, 2480.00" />
-			<Point pos="7566.00, 3939.00" />
-			<Point pos="4716.00, 2614.00" />
-			<Point pos="4582.00, 2828.00" />
-			<Point pos="5450.00, 1024.50" />
-			<Point pos="6620.00, 1618.00" />
-			<Point pos="7468.00, 2008.00" />
-			<Point pos="7615.00, 3755.00" />
-			<Point pos="6036.00, 1435.50" />
-			<Point pos="6956.00, 1720.00" />
-			<Point pos="7423.00, 3716.00" />
-			<Point pos="7832.00, 3806.00" />
-			<Point pos="7436.00, 4129.00" />
-			<Point pos="5984.00, 4096.00" />
-			<Point pos="7656.00, 3978.00" />
-			<Point pos="4872.00, 12096.00" />
-			<Point pos="7370.00, 3896.00" />
-			<Point pos="5940.00, 798.00" />
-			<Point pos="5525.50, 790.00" />
-			<Point pos="4474.00, 2906.00" />
-			<Point pos="5568.00, 866.00" />
-			<Point pos="5211.00, 690.50" />
-			<Point pos="5160.00, 544.00" />
-			<Point pos="4662.00, 2496.00" />
-			<Point pos="5615.50, 592.50" />
-			<Point pos="7654.00, 4132.00" />
-			<Point pos="5508.00, 1012.50" />
-			<Point pos="5454.50, 888.00" />
-			<Point pos="5176.00, 776.50" />
-			<Point pos="3880.00, 5304.00" />
-			<Point pos="7558.00, 1784.00" />
-			<Point pos="6072.00, 1250.00" />
-			<Point pos="7378.00, 4038.00" />
-			<Point pos="5822.00, 1118.00" />
-			<Point pos="7278.00, 2060.00" />
-			<Point pos="8656.00, 5376.00" />
-			<Point pos="6350.00, 1056.00" />
-			<Point pos="7274.00, 1724.00" />
-			<Point pos="4374.00, 2758.00" />
-		</Points>
-	</Respawn>
-	<Respawn id="stonington" displayName="Stonington">
-		<Options>
-			<MapRender pos="6816.00, 1896.00" zoom="0.25" showPoints="always" showMarker="always" allowInteraction="1" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
-		</Options>
-		<Points>
-			<Point pos="5940.00, 798.00" />
-			<Point pos="6350.00, 1056.00" />
-			<Point pos="5822.00, 1118.00" />
-			<Point pos="6072.00, 1250.00" />
-			<Point pos="6340.00, 1324.00" />
-			<Point pos="6036.00, 1435.50" />
-			<Point pos="5922.50, 1437.50" />
-			<Point pos="6372.50, 1559.00" />
-			<Point pos="6620.00, 1618.00" />
-			<Point pos="6956.00, 1720.00" />
-			<Point pos="7274.00, 1724.00" />
-			<Point pos="7558.00, 1784.00" />
-			<Point pos="7278.00, 2060.00" />
-			<Point pos="7468.00, 2008.00" />
+			<Point pos="7578.00, 4508.00" />
 		</Points>
 		<Conditions>
-			<Timeout id="myTimer2" minutes="15" />
+			<Timeout id="myTimer1" minutes="5" />
 		</Conditions>
 	</Respawn>
-	<Respawn id="hazelands" displayName="Hazelands">
+	<Respawn id="hunting" displayName="Caçador - Jaeguer">
 		<Options>
-			<MapRender pos="4528.00, 2730.00" zoom="0.25" showPoints="always" showMarker="always" allowInteraction="1" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
-		</Options>
-		<Points>
-			<Point pos="4458.00, 2668.00" />
-			<Point pos="4374.00, 2758.00" />
-			<Point pos="4474.00, 2906.00" />
-			<Point pos="4582.00, 2828.00" />
-			<Point pos="4716.00, 2614.00" />
-			<Point pos="4662.00, 2496.00" />
-			<Point pos="4678.00, 2828.00" />
-			<Point pos="4534.00, 2730.00" />
-		</Points>
-		<Conditions>
-			<Timeout id="myTimer2" minutes="15" />
-		</Conditions>
-	</Respawn>
-	<Respawn id="kushville" displayName="Kushville">
-		<Options>
-			<MapRender pos="7548.00, 3923.00" zoom="0.25" showPoints="always" showMarker="always" allowInteraction="1" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
-		</Options>
-		<Points>
-			<Point pos="7378.00, 4038.00" />
-			<Point pos="7370.00, 3896.00" />
-			<Point pos="7423.00, 3716.00" />
-			<Point pos="7615.00, 3755.00" />
-			<Point pos="7656.00, 3978.00" />
-			<Point pos="7566.00, 3939.00" />
-			<Point pos="7832.00, 3806.00" />
-			<Point pos="7813.00, 3922.00" />
-			<Point pos="7783.00, 3989.00" />
-			<Point pos="7654.00, 4132.00" />
-			<Point pos="7436.00, 4129.00" />
-		</Points>
-		<Conditions>
-			<Timeout id="myTimer2" minutes="15" />
-		</Conditions>
-	</Respawn>
-	<Respawn id="prison" displayName="Prison">
-		<Options>
-			<MapRender pos="5512.00, 672.00" zoom="0.1" showPoints="always" showMarker="always" allowInteraction="1" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
-		</Options>
-		<Points>
-			<Point pos="5176.00, 774.00" />
-			<Point pos="5160.00, 544.00" />
-			<Point pos="5568.00, 866.00" />
-			<Point pos="5615.50, 592.50" />
-			<Point pos="5211.00, 690.50" />
-			<Point pos="5176.00, 776.50" />
-			<Point pos="5525.50, 790.00" />
-			<Point pos="5508.00, 1012.50" />
-			<Point pos="5450.00, 1024.50" />
-			<Point pos="5454.50, 888.00" />
-		</Points>
-		<Conditions>
-			<Timeout id="myTimer2" minutes="15" />
-		</Conditions>
-	</Respawn>
-	<Respawn id="hunting" displayName="Hunting zone (skill required)">
-		<Options>
+			<MapRender pos="7578.00, 4508.00" zoom="0.25" showPoints="never" showMarker="never" allowInteraction="0" />
 			<SafeRadius zombie="15" animal="25" player="50" other="0" />
 		</Options>
 		<Points>
-			<Point pos="3880.00, 5304.00" />
-			<Point pos="4048.00, 6832.00" />
-			<Point pos="4872.00, 12096.00" />
-			<Point pos="9104.00, 7920.00" />
-			<Point pos="8656.00, 5376.00" />
-			<Point pos="10320.00, 2480.00" />
-			<Point pos="5984.00, 4096.00" />
-			<Point pos="9088.00, 7592.00" />
+			<Point pos="6127.00, 10743.00" />
 		</Points>
 		<Conditions>
 			<Timeout id="hunting" minutes="30" />
@@ -286,7 +147,7 @@
 			</SpecificPlayers>
 		</Conditions>
 	</Respawn>
-	<Respawn id="sleepingbag" displayName="Respawn on sleeping bag">
+	<Respawn id="sleepingbag" displayName="Respawne em sua cama/casa.">
 		<Options>
 			<MapRender zoom="0.25" showMarker="always" allowInteraction="1" />
 		</Options>
@@ -299,13 +160,13 @@
 			<Timeout id="sleepingbag" minutes="60" />
 		</Conditions>
 	</Respawn>
-	<Respawn id="deathpoint" displayName="Respawn on your dead body">
+	<Respawn id="deathpoint" displayName="Respawne no seu corpo.">
 		<Options>
 			<MapRender zoom="0.25" showMarker="always" allowInteraction="1" />
 		</Options>
 		<DeathPoint requireBody="1" />
 		<Conditions>
-			<Timeout id="deathpoint" hours="24" />
+			<Timeout id="deathpoint" hours="12" />
 		</Conditions>
 	</Respawn>
 </Respawns>

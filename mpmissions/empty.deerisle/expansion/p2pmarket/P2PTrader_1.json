@@ -3,16 +3,16 @@
     "m_TraderID": 1,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [
-        8192.0,
+        7575.0,
         300.0,
-        8192.0
+        4557.0
     ],
     "m_Orientation": [
         0.0,
         0.0,
         0.0
     ],
-    "m_LoadoutFile": "YellowKingLoadout",
+    "m_LoadoutFile": "NPC_alexanderSkier",
     "m_VehicleSpawnPosition": [
         8192.0,
         300.0,
@@ -28,7 +28,7 @@
         0.0,
         0.0
     ],
-    "m_DisplayName": "Unknown",
+    "m_DisplayName": "Skier",
     "m_DisplayIcon": "Deliver",
     "m_Faction": "InvincibleObservers",
     "m_Waypoints": [],

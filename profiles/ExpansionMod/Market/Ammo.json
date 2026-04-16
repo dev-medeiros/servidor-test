@@ -4,7 +4,7 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 05.0,
+    "InitStockPercent": 0.5,
     "Items": [
         {
             "ClassName": "ammo_12gapellets",

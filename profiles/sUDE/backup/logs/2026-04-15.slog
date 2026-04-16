@@ -1,0 +1,50 @@
+====================================================================
+                      2026/04/15 23:58:41 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-RCQPVOJ
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 74.869
+                  World name    : deerisle
+                  Game version  : 1.29.162510
+                  Mods          : 
+                  	- @1559212036
+                  	- @2545327648
+                  	- @1602372402
+                  	- @3649957186
+                  	- @3649959402
+                  	- @1828439124
+                  	- @3649959866
+                  	- @3649958397
+                  	- @3649957536
+                  	- @3649958757
+                  	- @2116157322
+                  	- @2572331007
+                  	- @3311622303
+                  	- @3427626164
+                  	- @2820370970
+                  	- @3513750352
+                  	- @3498571761
+                  	- @2663169692
+                  	- @3591318347
+                  	- @2931560672
+                  	- @1797720064
+                  	- @2885380137
+                  	- @1583941197
+                  	- @2507204412
+                  	- @2863308792
+                  	- @2646817942
+                  	- @2863309460
+                  	- @2443122116
+                  	- @2614334381
+                  	- @2276010135
+--------------------------------------------------------------------
+
+23:58:41 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:58:41 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sGunplay_constraints.json ] doesn't exists
+23:58:41 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sGunplay_constraints.json ]
+23:58:41 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Gunplay config constraint file : $profile:\sUDE\config\sGunplay_constraints.json
+23:58:41 [ii] │	│	├ Done
+23:58:41 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<0x00000117E56C1590>

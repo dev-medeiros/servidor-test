@@ -34,7 +34,7 @@
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
-                                "Max": 0.0
+                                "Max": 1.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -47,36 +47,8 @@
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "Mag_Vikhr_30Rnd",
-                            "Include": "",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "Mag_Vikhr_30Rnd",
-                            "Include": "",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 3.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -114,14 +86,57 @@
                         {
                             "ClassName": "Defibrillator",
                             "Include": "",
-                            "Chance": 0.5,
+                            "Chance": 0.3,
                             "Quantity": {
                                 "Min": 0.0,
-                                "Max": 0.0
+                                "Max": 1.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeDrinkYaguar",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 2.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeFirstAidKitAdvance_Black",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                            "ClassName": "TerjeSurgicalKit",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 2.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                            ],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         }
@@ -225,7 +240,386 @@
                         }
                     ],
                     "InventoryAttachments": [],
-                    "InventoryCargo": [],
+                    "InventoryCargo": [
+                        {
+                            "ClassName": "TerjeInjectorErytromixelin",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorErytromixelin",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorErytromixelin",
+                            "Include": "",
+                            "Chance": 0.8,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 2.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorTopoizomeraza",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleImipenem",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleFlemoclav",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorAmoxiclav",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleVaxicam",
+                            "Include": "",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleVaxicam",
+                            "Include": "",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleHeptral",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorStomaproxidal",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "AntiChemInjector",
+                            "Include": "",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleNeirocetal",
+                            "Include": "",
+                            "Chance": 0.8,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjePillsRombiopental",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleZerivax",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleImipenem",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorTopoizomeraza",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorPromidol",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjePillsIbuprofen",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleMorphine",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleNovacaine",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleAmitriptyline",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorAmfitalicyne",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleCarboxyme",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorRadioprotector",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "DisinfectantSpray",
+                            "Include": "",
+                            "Chance": 0.9,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeSalveFinalgon",
+                            "Include": "",
+                            "Chance": 0.9,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
                 },
@@ -245,7 +639,386 @@
                         }
                     ],
                     "InventoryAttachments": [],
-                    "InventoryCargo": [],
+                    "InventoryCargo": [
+                        {
+                            "ClassName": "TerjeInjectorErytromixelin",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorErytromixelin",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorErytromixelin",
+                            "Include": "",
+                            "Chance": 0.8,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 2.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorTopoizomeraza",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleImipenem",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleFlemoclav",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorAmoxiclav",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleVaxicam",
+                            "Include": "",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleVaxicam",
+                            "Include": "",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleHeptral",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorStomaproxidal",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "AntiChemInjector",
+                            "Include": "",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleNeirocetal",
+                            "Include": "",
+                            "Chance": 0.8,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjePillsRombiopental",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleZerivax",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleImipenem",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorTopoizomeraza",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorPromidol",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjePillsIbuprofen",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleMorphine",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleNovacaine",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleAmitriptyline",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorAmfitalicyne",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeAmpouleCarboxyme",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeInjectorRadioprotector",
+                            "Include": "",
+                            "Chance": 0.3,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "DisinfectantSpray",
+                            "Include": "",
+                            "Chance": 0.9,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "TerjeSalveFinalgon",
+                            "Include": "",
+                            "Chance": 0.9,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 1.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
                 }

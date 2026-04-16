@@ -55,6 +55,20 @@
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
+                        },
+                        {
+                            "ClassName": "ammo_9x39ap",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 30.0,
+                                "Max": 50.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
                         }
                         
                     ],

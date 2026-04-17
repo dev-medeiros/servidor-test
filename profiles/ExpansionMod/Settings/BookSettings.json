@@ -3,11 +3,11 @@
     "EnableStatusTab": 1,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 1,
-    "EnableServerRulesTab": 1,
+    "EnableServerRulesTab": 0,
     "EnableTerritoryTab": 1,
     "EnableBookMenu": 1,
     "CreateBookmarks": 0,
-    "ShowHaBStats": 1,
+    "ShowHaBStats": 0,
     "ShowPlayerFaction": 0,
     "RuleCategories": [
         {
@@ -36,7 +36,7 @@
             ]
         }
     ],
-    "DisplayServerSettingsInServerInfoTab": 1,
+    "DisplayServerSettingsInServerInfoTab": 0,
     "SettingCategories": [
         {
             "CategoryName": "Base-Building Settings",
@@ -136,7 +136,7 @@
     ],
     "Links": [
         {
-            "Name": "Homepage",
+            "Name": "Página Inicial",
             "URL": "https://www.google.com/",
             "IconName": "Homepage",
             "IconColor": -14473430
@@ -154,38 +154,38 @@
             "IconColor": -9270822
         },
         {
-            "Name": "Patreon",
-            "URL": "https://www.patreon.com/dayzexpansion",
+            "Name": "Pix",
+            "URL": "https://livepix.gg/zackstabz",
             "IconName": "Patreon",
             "IconColor": -432044
         },
         {
             "Name": "Steam",
-            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
+            "URL": "https://steamcommunity.com/id/zackstabz/",
             "IconName": "Steam",
             "IconColor": -14006434
         },
         {
             "Name": "Reddit",
-            "URL": "https://www.reddit.com/r/ExpansionProject/",
+            "URL": "https://www.reddit.com/r/zackstabz/",
             "IconName": "Reddit",
             "IconColor": -12386303
         },
         {
             "Name": "GitHub",
-            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
+            "URL": "https://github.com/dev-medeiros",
             "IconName": "GitHub",
             "IconColor": -16777216
         },
         {
             "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
+            "URL": "https://www.youtube.com/@Zackstabz/videos",
             "IconName": "YouTube",
             "IconColor": -65536
         },
         {
             "Name": "Twitter",
-            "URL": "https://twitter.com/DayZExpansion",
+            "URL": "https://twitter.com/zackstabz",
             "IconName": "Twitter",
             "IconColor": -14835214
         }

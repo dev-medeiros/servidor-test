@@ -22,11 +22,11 @@
     <Area>
         <Active>0</Active>
         <Classname>TerjeRadioactiveScriptableArea</Classname>
-        <Position>341 0 9401</Position>
+        <Position>14001 0 2157</Position>
         <SpawnChance>1.0</SpawnChance>
         <Data>
-            <OuterRadius>500</OuterRadius>
-            <InnerRadius>400</InnerRadius>
+            <OuterRadius>850</OuterRadius>
+            <InnerRadius>70</InnerRadius>
             <HeightMin>-100</HeightMin>
             <HeightMax>100</HeightMax>
             <Power>2.5</Power>

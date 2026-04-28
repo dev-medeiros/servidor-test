@@ -1,13 +1,13 @@
 {
     "m_Version": 11,
-    "PoorItemRequirement": 50,
-    "CommonItemRequirement": 300,
-    "UncommonItemRequirement": 700,
-    "RareItemRequirement": 2000,
+    "PoorItemRequirement": 100,
+    "CommonItemRequirement": 500,
+    "UncommonItemRequirement": 1500,
+    "RareItemRequirement": 2200,
     "EpicItemRequirement": 5000,
     "LegendaryItemRequirement": 8500,
     "MythicItemRequirement": 14000,
-    "ExoticItemRequirement": 20000,
+    "ExoticItemRequirement": 20000
     "ShowHardlineHUD": 1,
     "UseReputation": 1,
     "UseFactionReputation": 0,

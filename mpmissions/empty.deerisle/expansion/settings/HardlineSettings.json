@@ -1141,6 +1141,14 @@
 
 "----- FOG | Foward Operator Gear ACIMA -----": 0,
 
+        
+"----- GEMS | FreezeMining - Mineração -----": 0,
+        "Stone": 0,
+        "SmallStone": 0,
+        "Freezestone_iron": 1,
+        "Freezestone_tin": 1,
+        "Freezestone_silver": 1,
+
         "ULTIMA-----LINHA": 0
     }
 }

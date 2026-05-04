@@ -1138,17 +1138,25 @@
         "FOG_Bag_6ShBagT_CB": 3,
         "FOG_Bag_6ShBagT_White": 3,
         "FOG_Bag_6ShBagT_EMR_White": 3,
-
 "----- FOG | Foward Operator Gear ACIMA -----": 0,
-
-        
-"----- GEMS | FreezeMining - Mineração -----": 0,
-        "Stone": 0,
-        "SmallStone": 0,
-        "Freezestone_iron": 1,
-        "Freezestone_tin": 1,
-        "Freezestone_silver": 1,
-
+"----- GEMS | FreezeMining - Mineração ABAIXO -----": 0,
+        "Stone": 1,
+        "SmallStone": 1,
+        "Freezestone_copper": 2,
+        "Freezestone_tin": 2,
+        "Freezestone_iron": 3,
+        "Freezestone_silver": 4,
+        "Freezestone_gold": 5,
+        "Freezestone_uranium": 7,
+        "FreezeGem_Amber": 5,
+        "FreezeGem_Amethyst": 5,
+        "FreezeGem_Aquamarine": 6,
+        "FreezeGem_Iolite": 6,
+        "FreezeGem_Jade": 6,
+        "FreezeGem_Turquoise": 7,
+        "FreezeGem_Ruby": 7,
+        "FreezeGem_FancyColourDiamond": 8,
+"----- GEMS | FreezeMining - Mineração ACIMA -----": 0,
         "ULTIMA-----LINHA": 0
     }
 }

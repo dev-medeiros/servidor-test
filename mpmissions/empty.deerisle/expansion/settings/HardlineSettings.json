@@ -1142,6 +1142,7 @@
 "----- GEMS | FreezeMining - Mineração ABAIXO -----": 0,
         "Stone": 1,
         "SmallStone": 1,
+        "FreezeNode_stone": 1,        
         
         "FreezeBar_copper": 2,
         "FreezeNode_copper": 2,
@@ -1162,6 +1163,11 @@
         "FreezeNode_silver": 4,
         "FreezeNugget_silver": 4,
         "Freezestone_silver": 4,
+        
+        "FreezeNode_sulphur": 4,
+        "FreezePowder_Sulphur": 4,
+        "FreezeRef_Sulphur": 4,
+        "Freezestone_sulphur": 4,
         
         "FreezeBar_gold": 5,
         "FreezeNode_gold": 5,
@@ -1222,16 +1228,70 @@
         "FreezeGem_Ruby_Standard": 7,
         "FreezeNode_RubyGemNode": 7,
         
-        "FreezeBar_Ruby_Flawed": 7,
-        "FreezeBar_Ruby_Perfect": 7,
-        "FreezeBar_Ruby_Standard": 7,
-        
         "FreezeGem_FancyColourDiamond": 8,
         "FreezeGem_FancyColourDiamond_Cut": 8,
         "FreezeGem_FancyColourDiamond_Flawed": 8,
         "FreezeGem_FancyColourDiamond_Perfect": 8,
         "FreezeGem_FancyColourDiamond_Standard": 8,
         "FreezeNode_FancyColourDiamondGemNode": 8,
+
+        "FreezeBar_Bronze_Flawed": 1,
+        "FreezeBar_Bronze_Perfect": 1,
+        "FreezeBar_Bronze_Standard": 1,
+        
+        "FreezeBar_Composite_Flawed": 1,
+        "FreezeBar_Composite_Perfect": 1,
+        "FreezeBar_Composite_Standard": 1,
+        
+        "FreezeBar_Crystal_Flawed": 1,
+        "FreezeBar_Crystal_Perfect": 1,
+        "FreezeBar_Crystal_Standard": 1,
+        
+        "FreezeBar_Electrum_Flawed": 1,
+        "FreezeBar_Electrum_Perfect": 1,
+        "FreezeBar_Electrum_Standard": 1,
+        
+        "FreezeBar_Prismatic_Flawed": 1,
+        "FreezeBar_Prismatic_Perfect": 1,
+        "FreezeBar_Prismatic_Standard": 1,
+        
+        "FreezeBar_Ruby_Flawed": 7,
+        "FreezeBar_Ruby_Perfect": 7,
+        "FreezeBar_Ruby_Standard": 7,
+        
+        "FreezeBar_Steel_Flawed": 7,
+        "FreezeBar_Steel_Perfect": 7,
+        "FreezeBar_Steel_Standard": 7,
+        
+        "FreezeBar_Void_Flawed": 7,
+        "FreezeBar_Void_Perfect": 7,
+        "FreezeBar_Void_Standard": 7,
+        
+        "FreezeBar_Adamantite": 1,
+        "FreezeBar_Ascendant": 1,
+        "FreezeBar_Bloodmetal": 1,
+        "FreezeBar_Celestial": 1,
+        "FreezeBar_Cobalt": 1,
+        "FreezeBar_Crimant": 1,
+        "FreezeBar_Enchanted": 1,
+        "FreezeBar_Eridium": 1,
+        "FreezeBar_Infinity": 1,
+        "FreezeBar_Nexus": 1,
+        "FreezeBar_Titanforge": 1,
+        "FreezeBar_Voidsteel": 1,
+        
+        "FreezeAnvil": 1,
+        "FreezeAnvil_Kit": 1,
+        "FreezeAnvil_Static": 1,
+        "FreezeFurnace": 1,
+        "FreezeFurnace_Canister": 1,
+        "FreezeFurnace_Pipe": 1,
+        "FreezeFurnace_Static": 1,
+        "FreezeGrindingStone": 1,
+        "FreezeGrindingStone_Kit": 1,
+        "FreezeGrindingStone_Static": 1,
+        "FreezeGrindingStoneWheel": 1,
+        "FreezeHammer": 1,
         
 "----- GEMS | FreezeMining - Mineração ACIMA -----": 0,
         "ULTIMA-----LINHA": 0

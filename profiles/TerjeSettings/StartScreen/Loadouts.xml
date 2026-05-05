@@ -326,7 +326,7 @@
 			<Set name="myvar1" value="1" />
 		</Conditions>
 	</Loadout>
-	<Loadout id="admin" displayName="Admin loadout">
+	<Loadout id="fundador1" displayName="Fundador - T1">
 		<Items>
 			<Item classname="BaseballCap_Red" />
 			<Item classname="ChildBag_Red" />

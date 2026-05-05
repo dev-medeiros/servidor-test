@@ -1,0 +1,308 @@
+# =========================
+# ADAMANTITE
+# =========================
+FreezeBar_Adamantite
+
+
+# =========================
+# ÂMBAR
+# =========================
+FreezeGem_Amber
+FreezeGem_Amber_Cut
+FreezeGem_Amber_Flawed
+FreezeGem_Amber_Perfect
+FreezeGem_Amber_Standard
+FreezeNode_AmberGemNode
+
+
+# =========================
+# AMETISTA
+# =========================
+FreezeGem_Amethyst
+FreezeGem_Amethyst_Cut
+FreezeGem_Amethyst_Flawed
+FreezeGem_Amethyst_Perfect
+FreezeGem_Amethyst_Standard
+FreezeNode_AmethystGemNode
+
+
+# =========================
+# AQUAMARINE
+# =========================
+FreezeGem_Aquamarine
+FreezeGem_Aquamarine_Cut
+FreezeGem_Aquamarine_Flawed
+FreezeGem_Aquamarine_Perfect
+FreezeGem_Aquamarine_Standard
+FreezeNode_AquamarineGemNode
+
+
+# =========================
+# ASCENDANT
+# =========================
+FreezeBar_Ascendant
+
+
+# =========================
+# BLOODMETAL
+# =========================
+FreezeBar_Bloodmetal
+
+
+# =========================
+# BRONZE
+# =========================
+FreezeBar_Bronze_Flawed
+FreezeBar_Bronze_Perfect
+FreezeBar_Bronze_Standard
+
+
+# =========================
+# CELESTIAL
+# =========================
+FreezeBar_Celestial
+
+
+# =========================
+# COBALT
+# =========================
+FreezeBar_Cobalt
+
+
+# =========================
+# COMPOSITE
+# =========================
+FreezeBar_Composite_Flawed
+FreezeBar_Composite_Perfect
+FreezeBar_Composite_Standard
+
+
+# =========================
+# COBRE
+# =========================
+FreezeBar_copper
+FreezeNode_copper
+FreezeNugget_copper
+Freezestone_copper
+
+
+# =========================
+# CRIMANT
+# =========================
+FreezeBar_Crimant
+
+
+# =========================
+# CRYSTAL
+# =========================
+FreezeBar_Crystal_Flawed
+FreezeBar_Crystal_Perfect
+FreezeBar_Crystal_Standard
+
+
+# =========================
+# DIAMANTE
+# =========================
+FreezeGem_FancyColourDiamond
+FreezeGem_FancyColourDiamond_Cut
+FreezeGem_FancyColourDiamond_Flawed
+FreezeGem_FancyColourDiamond_Perfect
+FreezeGem_FancyColourDiamond_Standard
+FreezeNode_FancyColourDiamondGemNode
+
+
+# =========================
+# ELECTRUM
+# =========================
+FreezeBar_Electrum_Flawed
+FreezeBar_Electrum_Perfect
+FreezeBar_Electrum_Standard
+
+
+# =========================
+# ENCHANTED
+# =========================
+FreezeBar_Enchanted
+
+
+# =========================
+# ERIDIUM
+# =========================
+FreezeBar_Eridium
+
+
+# =========================
+# FERRAMENTAS / ESTAÇÕES
+# =========================
+FreezeAnvil
+FreezeAnvil_Kit
+FreezeAnvil_Static
+
+FreezeFurnace
+FreezeFurnace_Canister
+FreezeFurnace_Kit
+FreezeFurnace_Pipe
+FreezeFurnace_Static
+
+FreezeGrindingStone
+FreezeGrindingStone_Kit
+FreezeGrindingStone_Static
+FreezeGrindingStoneWheel
+
+FreezeHammer
+
+
+# =========================
+# FERRO
+# =========================
+FreezeBar_iron
+FreezeNode_iron
+FreezeNugget_iron
+Freezestone_iron
+
+
+# =========================
+# INFINITY
+# =========================
+FreezeBar_Infinity
+
+
+# =========================
+# IOLITE
+# =========================
+FreezeGem_Iolite
+FreezeGem_Iolite_Cut
+FreezeGem_Iolite_Flawed
+FreezeGem_Iolite_Perfect
+FreezeGem_Iolite_Standard
+FreezeNode_IoliteGemNode
+
+
+# =========================
+# JADE
+# =========================
+FreezeGem_Jade
+FreezeGem_Jade_Cut
+FreezeGem_Jade_Flawed
+FreezeGem_Jade_Perfect
+FreezeGem_Jade_Standard
+FreezeNode_JadeGemNode
+
+
+# =========================
+# NEXUS
+# =========================
+FreezeBar_Nexus
+
+
+# =========================
+# OURO
+# =========================
+FreezeBar_gold
+FreezeNode_gold
+FreezeNugget_gold
+Freezestone_gold
+
+
+# =========================
+# PRATA
+# =========================
+FreezeBar_silver
+FreezeNode_silver
+FreezeNugget_silver
+Freezestone_silver
+
+
+# =========================
+# PRISMATIC
+# =========================
+FreezeBar_Prismatic_Flawed
+FreezeBar_Prismatic_Perfect
+FreezeBar_Prismatic_Standard
+
+
+# =========================
+# RUBY
+# =========================
+FreezeBar_Ruby_Flawed
+FreezeBar_Ruby_Perfect
+FreezeBar_Ruby_Standard
+
+FreezeGem_Ruby
+FreezeGem_Ruby_Cut
+FreezeGem_Ruby_Flawed
+FreezeGem_Ruby_Perfect
+FreezeGem_Ruby_Standard
+FreezeNode_RubyGemNode
+
+
+# =========================
+# STEEL
+# =========================
+FreezeBar_Steel_Flawed
+FreezeBar_Steel_Perfect
+FreezeBar_Steel_Standard
+
+
+# =========================
+# STONE
+# =========================
+FreezeNode_stone
+
+
+# =========================
+# SULPHUR
+# =========================
+FreezeNode_sulphur
+FreezePowder_Sulphur
+FreezeRef_Sulphur
+Freezestone_sulphur
+
+
+# =========================
+# TITANFORGE
+# =========================
+FreezeBar_Titanforge
+
+
+# =========================
+# TIN
+# =========================
+FreezeBar_tin
+FreezeNode_tin
+FreezeNugget_tin
+Freezestone_tin
+
+
+# =========================
+# TURQUOISE
+# =========================
+FreezeGem_Turquoise
+FreezeGem_Turquoise_Cut
+FreezeGem_Turquoise_Flawed
+FreezeGem_Turquoise_Perfect
+FreezeGem_Turquoise_Standard
+FreezeNode_TurquoiseGemNode
+
+
+# =========================
+# URANIUM
+# =========================
+FreezeBar_uranium
+FreezeNode_uranium
+FreezeNugget_uranium
+Freezestone_uranium
+
+
+# =========================
+# VOID
+# =========================
+FreezeBar_Void_Flawed
+FreezeBar_Void_Perfect
+FreezeBar_Void_Standard
+
+
+# =========================
+# VOIDSTEEL
+# =========================
+FreezeBar_Voidsteel

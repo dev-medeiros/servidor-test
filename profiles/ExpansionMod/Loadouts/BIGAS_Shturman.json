@@ -14,7 +14,7 @@
                 {
                     "ClassName": "FOG_Mustache_Brown",
                     "Include": "",
-                    "Chance": 1.0,
+                    "Chance": 1.1,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
